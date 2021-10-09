@@ -1,6 +1,6 @@
 {
-  "name": "fontagon-cli",
-  "version": "1.0.5",
+  "name": "@weotch/fontagon-cli",
+  "version": "1.1.0",
   "description": "",
   "homepage": "https://github.com/kdydesign/fontagon",
   "repository": "https://github.com/kdydesign/fontagon",
